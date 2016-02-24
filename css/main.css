@@ -1,0 +1,56 @@
+.battle-product-img {
+  max-height: 300px;
+}
+
+
+
+
+body {
+  background-color: #da552f;
+}
+
+header {
+  padding-bottom: 30px;
+}
+
+footer {
+  color: white;
+  padding-top: 30px;
+  text-align: center;
+}
+
+footer hr {
+  width: 10%;
+}
+
+.header, .result-header, .page-header {
+  text-align: center;
+}
+
+.result-header {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.game-status, .page-header, .header, .result-header {
+  color: white;
+}
+
+/*
+.thumbnail {
+  background-color: rgba(255,255,255,0.9);
+}*/
+
+.ph-logo {
+  width: 30%;
+}
+
+.btn {
+  text-transform: uppercase;
+}
+
+.impression {
+  color: white;
+}
+
+
