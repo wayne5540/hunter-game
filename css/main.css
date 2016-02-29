@@ -24,7 +24,11 @@ footer hr {
 }
 
 hr.small-hr {
-  width: 10%
+  width: 10%;
+}
+
+hr.xs-hr {
+  width: 3%;
 }
 
 .header, .result-header, .page-header {
@@ -40,6 +44,10 @@ hr.small-hr {
   color: white;
 }
 
+.black-code {
+  background-color: #111;
+  color: white;
+}
 
 
 /*
@@ -55,14 +63,13 @@ hr.small-hr {
   text-transform: uppercase;
 }
 
-.btn-twitter {
+.twitter-link {
   color: white;
 }
 
 .impression {
   color: white;
 }
-
 
 /* LOADING SPIN */
 
