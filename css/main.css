@@ -23,6 +23,11 @@ footer hr {
   width: 10%;
 }
 
+footer a {
+  color: white;
+  text-decoration: underline;
+}
+
 hr.small-hr {
   width: 10%;
 }
